@@ -7,7 +7,6 @@ pkg upgrade<br>
 pkg install python2<br>
 pkg install git<br>
 git clone https://github.com/STLP-TEAM/CRACK_ZIP_PASSWORD<br>
-python2 -m pip2 install zipfile<br>
 cd CRACK_ZIP_PASSWORD<br>
 python2 crack_zip.py<br><br>
 
